@@ -1,3 +1,0 @@
-[09-Jan-2023 20:06:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProductController::addProduct() in /home/dahukno9stvo/dev.bestwpfix.com/newapp/app/Http/Controllers/ProductController.php on line 39
-[09-Jan-2023 20:30:08 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/dahukno9stvo/dev.bestwpfix.com/newapp/storage/framework/views/23b1d1dc10d51641d039f02b56dc6bace8692a02.php on line 24
-[09-Jan-2023 20:30:24 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/dahukno9stvo/dev.bestwpfix.com/newapp/storage/framework/views/23b1d1dc10d51641d039f02b56dc6bace8692a02.php on line 24
